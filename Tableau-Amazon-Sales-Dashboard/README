@@ -1,1 +1,36 @@
+Amazon Sales Dashboard using Tableau
 
+Project Overview
+
+This project demonstrates an interactive Tableau dashboard built using the Amazon Sales dataset. The dashboard is designed to analyze sales performance, profitability, regional trends, and customer behavior through interactive visualizations.
+
+Objective
+
+To provide business users with an interactive dashboard for monitoring KPIs, identifying trends, and supporting data-driven decision-making.
+
+Dataset
+
+Amazon Sales Dataset
+
+Tools Used
+
+• Tableau Public
+• Data Visualization
+• Calculated Fields
+• Filters
+• Dashboard Actions
+
+Dashboard Components
+
+• KPI Cards
+• Monthly Sales Trend
+• Sales by Region
+• Sales by Category
+• Profit by Category
+• Top 10 Sub-Categories
+• Payment Method Distribution
+• Customer Segment Analysis
+
+Business Value
+
+The dashboard enables users to monitor business performance, compare regional sales, identify profitable categories, and analyze customer purchasing patterns through interactive visualizations.
