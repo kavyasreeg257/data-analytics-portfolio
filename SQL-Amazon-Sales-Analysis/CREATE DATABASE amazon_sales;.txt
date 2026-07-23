@@ -1,0 +1,27 @@
+CREATE DATABASE amazon_sales;
+
+USE amazon_sales;
+
+CREATE TABLE amazon_sales (
+    order_id VARCHAR(20),
+    order_date DATE,
+    ship_date DATE,
+    ship_mode VARCHAR(50),
+    customer_name VARCHAR(100),
+    segment VARCHAR(50),
+    region VARCHAR(50),
+    state VARCHAR(100),
+    category VARCHAR(100),
+    sub_category VARCHAR(100),
+    product_name VARCHAR(255),
+    quantity INT,
+    unit_price DECIMAL(10,2),
+    discount_percent DECIMAL(5,2),
+    discount_amount DECIMAL(10,2),
+    sales DECIMAL(12,2),
+    profit DECIMAL(12,2),
+    profit_margin DECIMAL(5,2),
+    customer_rating DECIMAL(3,2),
+    payment_method VARCHAR(50),
+    returned VARCHAR(10)
+);
